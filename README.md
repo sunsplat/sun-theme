@@ -1,11 +1,11 @@
-Jekyll
+#Jekyll
 
-To run locally:   
+To run locally:     
 `bundle exec jekyll serve`
 ---
 
-# Moon Jekyll Theme
-[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+### Moon Jekyll Theme   
+**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
 ---
 
